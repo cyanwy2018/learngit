@@ -1,1 +1,2 @@
 This is the first day I learn git; 
+I am so happy to learn git;
